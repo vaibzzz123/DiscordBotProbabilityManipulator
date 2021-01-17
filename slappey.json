@@ -1,0 +1,6 @@
+{
+  "name": "BotProbabilityManipulator",
+  "language": "javascript",
+  "manager": "yarn",
+  "prefix": "!bp"
+}
